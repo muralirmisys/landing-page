@@ -1,0 +1,13 @@
+body{font-family:'Oswald',sans-serif;font-size:16px;line-height:25px}
+body.violetbg{background-color:#302d80;}
+body.bluebg{background-color:#019ffa;}
+body.texturebg{background:url(../images/blue-texture-bg.jpg) repeat!important;background-size:cover;}
+.banner-content-cov{padding:70px 0}
+.banner-content-cov h1{font-size:60px;font-weight:700;font-family:"Oswald",sans-serif;color:#fff;margin-bottom:15px;margin-bottom:40px}
+.banner-content-cov p{color:#fff;font-size:30px;line-height: 35px;}
+p.small-para{font-weight:400;font-size:15px}
+.learnmore-btn{margin:15px 0}
+.chat-now {font-size: 30px; margin-bottom:15px; display:block;line-height: 35px;}
+.clear { clear:both; overflow:hidden;}
+@media (min-width:250px) and (max-width:576px) {.banner-content-cov h1{font-size:30px; margin-bottom: 10px}.chat-now {font-size: 20px;}}
+
